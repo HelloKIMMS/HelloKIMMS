@@ -30,9 +30,9 @@
 - ✨ artificial neural network
 
 ### - Hobbies : 
-- ✨ Watching a Movie
-- ✨ Taking pictures
-- ✨ Collecting posters
+- ✨ Watching a Movie 📽
+- ✨ Taking pictures 📸
+- ✨ Collecting posters 🎞🎬🎥📚🖼
 
 </br>
 </br>
@@ -50,7 +50,7 @@
 
 
 
-# Contact Me :
+# Contact Me 🎵:
 
    <div align="center">
       <a href="mailto:msmsme05@naver.com">
