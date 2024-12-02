@@ -32,7 +32,7 @@
 ### - Hobbies : 
 - ✨ Watching a Movie 🎬
 - ✨ Taking pictures 📸
-- ✨ Collecting posters 📚🖼
+- ✨ Collecting posters 🖼
 
 </br>
 </br>
