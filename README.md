@@ -5,7 +5,7 @@
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3e333425-6d11-4c7c-8401-8505f20d4296" height="240" width="700">
+<img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-19.gif" height="240" width="700">
   
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="200%">
