@@ -8,7 +8,7 @@
 <img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-19.gif" height="240" width="370">
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="200%">
 
 <!--🖼️ILOVEOPENSOURCE-->
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
