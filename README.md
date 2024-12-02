@@ -50,7 +50,7 @@
 
 
 
-# Contact Me 🤠😎:
+# Contact Me 😎:
 
    <div align="center">
       <a href="mailto:msmsme05@naver.com">
