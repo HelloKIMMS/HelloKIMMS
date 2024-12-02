@@ -30,9 +30,9 @@
 - ✨ artificial neural network
 
 ### - Hobbies : 
-- ✨ Watching a Movie 📽
+- ✨ Watching a Movie 🎬
 - ✨ Taking pictures 📸
-- ✨ Collecting posters 🎞🎬🎥📚🖼
+- ✨ Collecting posters 📚🖼
 
 </br>
 </br>
