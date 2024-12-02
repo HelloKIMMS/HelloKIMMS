@@ -14,7 +14,7 @@
 
 ### - I am a student born in Korea and hope to become a developer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 - 📖 I’m currently studying on **DONGYANG MIRAE UNIVERSITY**
 
