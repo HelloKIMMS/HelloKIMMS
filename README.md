@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HelloKIMMS](https://github.com/HelloKIMMS)
 
-- 📫 How to reach me **memems05@naver.com**
+- 📫 How to reach me **010-3332-5606**
 
 ### - Learning :
 - ✨ Database
