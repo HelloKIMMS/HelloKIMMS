@@ -5,7 +5,7 @@
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/77afe072-6026-4095-8040-f5a67c7e3487" height="240" width="370">
+<img src="GG.gif" height="240" width="370">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
