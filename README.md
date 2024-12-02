@@ -77,7 +77,7 @@
   </a>
               <a href="">
     <img
-      src="https://img.shields.io/badge/010-3332-5606-3B99FC?style=for-the-badge&logo=logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/010-3332-5606-3B99FC?style=for-the-badge&logo=flat-square&logoColor=white"/>&nbsp
   </a>
    </div>
 
