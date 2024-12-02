@@ -67,7 +67,8 @@
 # Contact Me :
 
    <div align="center">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Email&logoColor=white" />
+     <a href="mailto:msmsme05@naver.com"><img src="https://img.shields.io/badge/Navermail-03C75A?style=flat-square&logo=Navermail&logoColor=white&link=mailto:msmsme05@naver"/></a>
+
    </div>
 
 
