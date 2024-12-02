@@ -6,7 +6,7 @@
 <img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-19.gif" height="240" width="700">
 
   
-- 🔭 I’m currently studying on **DONGYANG MIRAE UNIVERSITY**
+- 📖 I’m currently studying on **DONGYANG MIRAE UNIVERSITY**
 
 - 🌱 I’m currently learning **about artificial intelligence.**
 
