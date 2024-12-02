@@ -64,7 +64,7 @@
    </div>
 
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ #  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokimms&show_icons=true&locale=en&layout=compact" alt="hellokimms" /></p>
