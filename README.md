@@ -5,7 +5,7 @@
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="GG.gif" height="240" width="370">
+<img src="![Uploading GG.gif…]().gif" height="240" width="370">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
