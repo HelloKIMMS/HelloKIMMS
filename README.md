@@ -1,10 +1,11 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="[https://github.com/user-attachments/assets/048f3a85-38ea-4161-938b-f3404c8a893b](https://mblogthumb-phinf.pstatic.net/MjAyMTAxMTZfMjgy/MDAxNjEwNzc1OTgwODgy.15RqSClmjI5Pe9h7VaByj4SWdSpZoaOYAPkXx14tToIg.bWwrhkTZhYxiLWiT9vy8jMpfhJm6IWnfTaC9zbI_5Q0g.GIF.cc_76/994F5D3A5E3937B014.gif?type=w966)">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMTAxMTZfMjgy/MDAxNjEwNzc1OTgwODgy.15RqSClmjI5Pe9h7VaByj4SWdSpZoaOYAPkXx14tToIg.bWwrhkTZhYxiLWiT9vy8jMpfhJm6IWnfTaC9zbI_5Q0g.GIF.cc_76/994F5D3A5E3937B014.gif?type=w966" height="240" width="370">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
