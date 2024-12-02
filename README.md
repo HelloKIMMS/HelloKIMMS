@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/048f3a85-38ea-4161-938b-f3404c8a893b">
+<img src="[https://github.com/user-attachments/assets/048f3a85-38ea-4161-938b-f3404c8a893b](https://mblogthumb-phinf.pstatic.net/MjAyMTAxMTZfMjgy/MDAxNjEwNzc1OTgwODgy.15RqSClmjI5Pe9h7VaByj4SWdSpZoaOYAPkXx14tToIg.bWwrhkTZhYxiLWiT9vy8jMpfhJm6IWnfTaC9zbI_5Q0g.GIF.cc_76/994F5D3A5E3937B014.gif?type=w966)">
 
 <!--🖼️RICK-->
 <p align="center">
