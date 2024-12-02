@@ -5,6 +5,7 @@
 <p align="center">
 <img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-19.gif" height="240" width="700">
 
+<br>
 
 # About ME 💬 :
 
@@ -63,6 +64,7 @@
              
    </div>
 
+<br>
 <br>
 
  #  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
