@@ -66,17 +66,10 @@
 
 # Contact Me :
 
-<!-- Conecct section -->
-
-<h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/Email"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Email&logoColor=white" />
    </p>
 
- <!-- Conecct section: END -->
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
