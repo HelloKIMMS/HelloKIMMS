@@ -5,7 +5,7 @@
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://mblogthumb-phinf.pstatic.net/MjAyMTAxMTZfMjgy/MDAxNjEwNzc1OTgwODgy.15RqSClmjI5Pe9h7VaByj4SWdSpZoaOYAPkXx14tToIg.bWwrhkTZhYxiLWiT9vy8jMpfhJm6IWnfTaC9zbI_5Q0g.GIF.cc_76/994F5D3A5E3937B014.gif?type=w966" height="240" width="370">
+<img src="https://github.com/user-attachments/assets/77afe072-6026-4095-8040-f5a67c7e3487" height="240" width="370">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
