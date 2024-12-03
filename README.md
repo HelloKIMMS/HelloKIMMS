@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kim Myeong-seo</h1>
+<h1 align="center">Hi <!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+, I'm Kim Myeong-seo</h1>
 <h3 align="center">I am a student born in Korea and hope to become a developer.</h3>
 
 <!--🖼️RICK-->
