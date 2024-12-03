@@ -1,4 +1,4 @@
-<h1 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there!I'm Kim Myeong-seo</h3>
+<h1 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Kim Myeong-seo</h3>
 <h3 align="center">I am a student born in Korea and hope to become a developer.</h3>
 
 <!--🖼️RICK-->
