@@ -53,11 +53,11 @@
 # Contact Me 😎:
 
    <div align="center">
-      <a href="mailto:msmsme05@naver.com">
+      <a href="mailto:00000@0000.com">
     <img
       src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:msmsme05@naver.com"/>&nbsp
   </a>
-          <a href="mailto:msmsme05@gmail.com">
+          <a href="mailto:00000@0000.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:msmsme05@gmail.com"/>&nbsp
   </a>
